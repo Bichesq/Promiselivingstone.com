@@ -11701,3 +11701,10 @@ pre .code {
   background-size: auto;
   padding-top: 30px;
 }
+
+.contact-info-card{
+  background-color: white;
+  opacity: .6;
+  padding: 20px;
+  border-radius: 5px;
+}

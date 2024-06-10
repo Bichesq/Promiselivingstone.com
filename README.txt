@@ -1,4 +1,6 @@
-JohnDoe Free Bootstrap landing page for personal and commercial use. Designed with ♥️ and creativity by Devcrud.com 
+promiselivingstone.com was modified from the templete:JohnDoe Free Bootstrap landing page for personal and commercial use. Designed with ♥️ and creativity by Devcrud.com 
+
+modification Done by Deodatus B. Bijengsi
 
 Product Page: https://wwww.devcrud.com/
 
